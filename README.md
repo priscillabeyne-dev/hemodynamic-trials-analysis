@@ -3,7 +3,7 @@
 A descriptive analysis of primary outcome measures in perioperative hemodynamic monitoring and goal-directed therapy trials registered on ClinicalTrials.gov between 2015 and 2025.
 
 **Author:** Priscilla Beyne
-**Course:** CHIP 690-335, Milestone 02
+**Course:** CHIP 705-001, Milestone 02
 
 ## Research question
 
